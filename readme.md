@@ -9,3 +9,4 @@ A 404 error is a standardized HTTPS code for a page that is not found!
 We are doing this as part of the MLH hackathon from the 23.12.2022 to 25.12.2022 'Design-a-thon'
 <hr>
 <h2> How did we design this page? </h2>
+We designed it using HTML and CSS
